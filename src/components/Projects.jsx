@@ -8,7 +8,7 @@ function Projects() {
         <div className="projects-grid-container">
           <div className="project-grid-item">
             <div className="project-card">
-              <img src="../journal-app.png" alt="Reflecta Journal App" />
+              <img src="../public/journal-app.png" alt="Reflecta Journal App" />
               <h2>Reflecta Journal App</h2>
               <h3>
                 Full-stack journaling app that provides users with daily writing prompts as well as a mood tracker.
@@ -21,7 +21,7 @@ function Projects() {
           </div>
           <div className="project-grid-item">
             <div className="project-card">
-              <img src="../world-clock.png" alt="World Clock App" />
+              <img src="../../public/world-clock.png" alt="World Clock App" />
               <h2>World Clock App</h2>
               <h3>
               Feature extension of a world clock app added on top of a legacy project.
@@ -34,7 +34,7 @@ function Projects() {
           </div>
           <div className="project-grid-item">
             <div className="project-card">
-              <img src="../budget-planner.png" alt="Budget Planner App" />
+              <img src="../../public/budget-planner.png" alt="Budget Planner App" />
               <h2>Budget Planner App</h2>
               <h3>
                 Full-stack budget planner app that helps users track income and expenses.
