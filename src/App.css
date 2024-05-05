@@ -338,6 +338,7 @@ button:hover {
   
   .project-grid-item {
     padding: 10px 10px 20px 10px;
+    height: 600px;
   }
 
   .copyright {
