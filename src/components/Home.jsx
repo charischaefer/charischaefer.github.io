@@ -21,10 +21,10 @@ function Home() {
       </div>
 
       <div className="icon-container">
-        <a href="https://www.linkedin.com/in/charlotte-anna-schaefer/"><LinkedInIcon className="icon linkedin"/></a>
-        <a href="https://github.com/charischaefer"><GitHubIcon className="icon github" /></a>
-        <a href="https://www.goodreads.com/author/show/6108806.Charlotte_Schaefer"><FontAwesomeIcon icon={faGoodreads} className="icon goodreads" /></a>
-        <a href="https://www.instagram.com/misscharlotte/"><InstagramIcon className="icon instagram" /></a>
+        <a href="https://www.linkedin.com/in/charlotte-anna-schaefer/" target="_blank"><LinkedInIcon className="icon linkedin"/></a>
+        <a href="https://github.com/charischaefer" target="_blank"><GitHubIcon className="icon github" /></a>
+        <a href="https://www.goodreads.com/author/show/6108806.Charlotte_Schaefer" target="_blank"><FontAwesomeIcon icon={faGoodreads} className="icon goodreads" /></a>
+        <a href="https://www.instagram.com/misscharlotte/" target="_blank"><InstagramIcon className="icon instagram" /></a>
       </div>
     </div>
   );
