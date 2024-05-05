@@ -7,7 +7,7 @@ function About() {
       <div className="about-container">
         <div className="about-grid-container">
           <div className="about-grid-item">
-            <img className="profile-picture" src="/chari.jpg" alt="Charlotte Schaefer" />
+            <img className="profile-picture" src="%PUBLIC_URL%/chari.jpg" alt="Charlotte Schaefer" />
           </div>
           <div className="about-grid-item">
             <h2 className="highlighted">Hi. I'm Charlotte.</h2>
