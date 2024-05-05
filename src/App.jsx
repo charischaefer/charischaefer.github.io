@@ -25,7 +25,6 @@ function App() {
           <Route path="/about" element={<About />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/contact" element={<Contact />} />
-          <Route path="*" element={<Navigate to="/" />} />
         </Routes>
 
         <p className="copyright">© 2024 Charlotte Schaefer</p>
