@@ -10,7 +10,7 @@ function Home() {
   return (
     <div className="Home">
       <div className="main-container">
-        <h2 className="highlighted">Full Stack Developer</h2>
+        <h2 className="highlighted">Full-Stack Developer</h2>
         <h1>Charlotte Schaefer</h1>
         <h2>After having finished an immersive bootcamp covering full-stack technologies, I've delved deeper into the world of coding.
             My hunger for learning keeps me on my toes—I'm always seeking new ways to level up my skill set.
