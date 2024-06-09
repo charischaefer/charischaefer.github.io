@@ -16,7 +16,7 @@ function Home() {
             My hunger for learning keeps me on my toes—I'm always seeking new ways to level up my skill set.
         </h2>
         <Link to="/projects">
-          <button>Check out my portfolio!</button>
+          <button>Check out My Portfolio!</button>
         </Link>
       </div>
 

@@ -18,7 +18,7 @@ function About() {
           </div>
         </div>
         <Link to="/contact">
-          <button>Get in touch!</button>
+          <button>Get in Touch!</button>
         </Link>
       </div>
     </div>
